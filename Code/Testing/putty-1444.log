@@ -1,0 +1,34 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.05.28 14:44:21 =~=~=~=~=~=~=~=~=~=~=~=
+
+Basic_Receiver_Terminal_151117
+V1.1
+Stuart Robinson - www.LoRaTracker.uk
+
+Configuring Settings from Memory
+CRC_Bind_Memory 402
+This Node 1
+
+
+LoRa Registers
+Reg    0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+0x00  45 88 1A 0B 00 52 6C 59 99 4F 09 2B 23 01 80 00 
+0x10  00 00 00 00 00 00 00 00 10 00 00 00 00 62 87 64 
+0x20  00 08 01 FF 00 00 00 00 00 00 00 00 00 50 14 45 
+0x30  55 C3 05 27 1C 0A 03 0A 42 12 49 1D 00 AF 00 00 
+0x40  00 00 12 24 2D 00 03 00 04 23 00 09 05 84 32 2B 
+0x50  14 00 00 10 00 00 00 0F E0 00 0C 00 06 00 5C 78 
+0x60  00 19 0C 4B CC 0D C1 20 04 47 AF 00 00 00 00 0B 
+0x70  D0 01 10 00 00 00 00 00 00 00 00 00 00 00 00 00 
+
+
+Last HAB Packet  $$$$MyFlight1,15,08:15:13,50.96510,-0.08644,37,6,3362,-11,5,71,3,0,0,0*B40D
+Last Location  50.96518  -0.08648  39
+
+
+TrackerMode 433400000
+SearchMode  433300000
+CommandMode 433500000
+
+433.400MHz  (0.0Khz)  BW62500  SF8  CR4/5  LDROPT_OFF  Power 10dBm
+
+Tracker Mode Listen > 
